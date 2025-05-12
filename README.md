@@ -4,4 +4,4 @@
 
 При написании сайта были задействованы язык разметки HTML, CSS, JavaScript, асинхронные функции, а также к проекту был подключен Webpack для удобства работы с ним.
 
-Ссылка на Github Pages: [https://krabzakraba.github.io/pr_mesto/](https://krabzakraba.github.io/pr_mesto/)
+Ссылка на Github Pages: (https://lyubovvrublevskaia.github.io/PRMesto/)
