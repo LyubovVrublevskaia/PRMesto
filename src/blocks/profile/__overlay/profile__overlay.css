@@ -1,0 +1,32 @@
+.profile__overlay {
+  width: 120px;
+  height: 120px;
+  margin: 0 29px 0 0;
+  overflow: hidden;
+  position: relative;
+}
+
+@media screen and (max-width: 740px) {
+  .profile__overlay {
+    margin: 0 10px 0 0;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .profile__overlay {
+    margin-right: 0;
+  }
+}
+
+.profile__overlay:hover .profile__image {
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  opacity: 0.6;
+}
+
+.profile__overlay:hover .profile__image-edit {
+  display: block;
+}
